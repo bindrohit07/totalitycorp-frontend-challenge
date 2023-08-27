@@ -20,8 +20,10 @@ const Item = ({ data, addToCart }) => {
                         ${price}
                     </span>
                     <div className="cart" onClick={addToCart}>
-                        <img className="cartImg" src="/cart.svg" alt="" />
+                    {/* <img className="cartImg" src="/cart.svg" alt="" /> */}
+                    <button className="cart-btn">Add to Cart</button>
                     </div>
+                   
                 </div>
             </div>
         </div>
