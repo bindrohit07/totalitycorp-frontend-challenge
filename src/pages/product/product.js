@@ -55,7 +55,8 @@ const Product = () => {
                             <div className="flex">
                                 <span className="price">${product.price}</span>
                                 <span className="cart" onClick={() => addToCart(product)}>
-                                    <img src="/cart.svg" alt="" />
+                                    {/* <img src="/cart.svg" alt="" /> */}
+                                    <button className="cart-btn">Add to Cart</button>
                                 </span>
                             </div>
                         </div>
