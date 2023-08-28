@@ -75,22 +75,15 @@ An innovative ecommerce web application that seamlessly connects buyers and sell
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* [![Node][Node.js]][Node-url]
-* [![Javascript][Javascript.com]][Javascript-url]
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![react](https://img.shields.io/badge/-react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
+
+![rest-api](https://img.shields.io/badge/-rest-api-grey?style=for-the-badge&logo=restapi&logoColor=white&labelColor=8E2DE2)
+
 <br>
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
 ![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
 ![express](https://img.shields.io/badge/-express-grey?style=for-the-badge&logo=express&logoColor=white&labelColor=8E2DE2)
 ![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
