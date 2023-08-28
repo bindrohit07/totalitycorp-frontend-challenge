@@ -23,6 +23,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
+        <li><a href="#built-with">Approch</a></li>
       </ul>
     </li>
     <li>
@@ -69,7 +70,7 @@ An innovative ecommerce web application that seamlessly connects buyers and sell
 <br>
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 
-
+### Approch
 <h3>Tech Stack:</h3>
 <ol>
   <li>Front-End Framework: React</li>
