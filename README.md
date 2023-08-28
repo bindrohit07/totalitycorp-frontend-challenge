@@ -23,7 +23,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#approch">Approch</a></li>
+        <li><a href="#approach">Approach</a></li>
       </ul>
     </li>
     <li>
@@ -74,7 +74,7 @@ An innovative ecommerce web application that seamlessly connects buyers and sell
 <h3>Tech Stack:</h3>
 <ol>
   <li>Front-End Framework: React</li>
-  <li>State Management:Redux</li>
+  <li>State Management: Redux</li>
   <li>Styling: CSS Modules, Styled Components </li>
   <li>Routing: React Router</li>
   <li>API Communication: Axios or Fetch API</li>
@@ -85,8 +85,6 @@ An innovative ecommerce web application that seamlessly connects buyers and sell
   <li>Version Control: Git, GitHub </li>
   <li>Deployment: Netlify</li>
 </ol
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -115,8 +113,6 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Get a free API Key at [https://fakestoreapi.com](https://fakestoreapi.com)
 2. Clone the repo
    ```sh
@@ -133,10 +129,6 @@ _Below is an example of how you can instruct your audience on installing and set
             .then(json=>console.log(json))';
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
@@ -146,9 +138,6 @@ _Below is an example of how you can instruct your audience on installing and set
 4. Integrate APIs and update API endpoints as needed.
 5. Create new components in a modular fashion for scalability.
 6. Write tests using Jest and React Testing Library for maintaining code quality.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FEATURES -->
 ## Features
@@ -169,12 +158,6 @@ _Below is an example of how you can instruct your audience on installing and set
 <br>
 -> Scalable and Customizable Design
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
     I welcome contributions to enhance this project. If you find any bugs or have suggestions for improvements, feel free to submit issues or pull requests. 
@@ -186,16 +169,9 @@ _Below is an example of how you can instruct your audience on installing and set
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- LICENSE -->
 ## License
 This project is licensed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTACT -->
@@ -203,15 +179,7 @@ This project is licensed under the MIT License. See `LICENSE.txt` for more infor
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@rkumarbind7@gmail.com
 
-Project Link: [https://github.com/bindrohit07/totalitycorp-frontend-challenge](https://github.com/bindrohit07/totalitycorp-frontend-challenng)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+Project Link: []
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
