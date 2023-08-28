@@ -70,7 +70,7 @@ An innovative ecommerce web application that seamlessly connects buyers and sell
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 
 
-Tech Stack:
+<h3>Tech Stack:</h3>
 Front-End Framework: React
 State Management: Redux (or any other chosen state management library)
 Styling: CSS Modules, Styled Components (optional)
