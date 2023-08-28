@@ -1,12 +1,10 @@
 
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Totalitycorp-frontend-challenge</h3>
+  <h3 align="center">Totalitycorp-Frontend-Challenge</h3>
 
   <p align="center">
     An awesome E-commerce WebApp !
@@ -16,9 +14,9 @@
     <br />
     <a href="https://ecommerce-bindrohit07.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge/issues">Request Feature</a>
   </p>
 </div>
 
@@ -54,7 +52,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<h1>E-Commerce WebApp</h1>
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
