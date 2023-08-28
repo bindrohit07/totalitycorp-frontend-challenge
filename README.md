@@ -1,8 +1,5 @@
-<a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h1 align="center">Totalitycorp-Frontend-Challenge</h1>
+<h1 align="center">Totalitycorp-Frontend-Challenge</h1>
 
   <p align="center">
     <h3>An awesome E-commerce WebApp !</h3>
