@@ -6,8 +6,9 @@
     <br />
     <br />
     <a href="https://ecommerce-bindrohit07.netlify.app/">View Project Demo</a>
+   <br>
     <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge"><strong>Explore the docs »</strong></a>
-    <br />
+ 
     ·
     <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge/issues">Report Bug</a>
     ·
