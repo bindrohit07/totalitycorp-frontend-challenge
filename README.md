@@ -1,4 +1,4 @@
-
+<div alingn="center">
 <h1 align="center">Totalitycorp-Frontend-Challenge</h1>
 
   <p align="center">
@@ -110,7 +110,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. MY API in `config.js`
    ```js
    const API_KEY = 'fetch('https://fakestoreapi.com/products')
             .then(res=>res.json())
@@ -140,11 +140,17 @@ _Below is an example of how you can instruct your audience on installing and set
 -> Interactive User Interface
 <br>
 -> Responsive Design
+<br>
 -> Smooth Navigation with React Router
+<br>
 -> Efficient State Management for Enhanced Performance
+<br>
 -> Optimized API Calls for Seamless Data Integration
+<br>
 -> Testing for Robust Codebase
+<br>
 -> Code Quality Maintenance through Linting
+<br>
 -> Scalable and Customizable Design
 
 
@@ -181,7 +187,7 @@ This project is licensed under the MIT License. See `LICENSE.txt` for more infor
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@rkumarbind7@gmail.com
 
-Project Link: [https://github.com/bindrohit07/totalitycorp-frontend-challenge](https://github.com/bindrohit07/totalitycorp-frontend-challeng)
+Project Link: [https://github.com/bindrohit07/totalitycorp-frontend-challenge](https://github.com/bindrohit07/totalitycorp-frontend-challenng)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
