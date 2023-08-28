@@ -119,8 +119,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```js
    const API_KEY = 'fetch('https://fakestoreapi.com/products')
             .then(res=>res.json())
-            .then(json=>console.log(json))
-';
+            .then(json=>console.log(json))';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
