@@ -52,7 +52,6 @@ Ecommerce web apps offer various benefits, including 24/7 accessibility, persona
 
 An innovative ecommerce web application that seamlessly connects buyers and sellers. It offers an intuitive user interface and personalized recommendations. With a wide range of products, a streamlined checkout process, and responsive design, it provides a convenient and enjoyable online shopping experience.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
@@ -70,7 +69,21 @@ An innovative ecommerce web application that seamlessly connects buyers and sell
 <br>
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+Tech Stack:
+Front-End Framework: React
+State Management: Redux (or any other chosen state management library)
+Styling: CSS Modules, Styled Components (optional)
+Routing: React Router
+API Communication: Axios or Fetch API
+Bundling: Webpack
+Transpilation: Babel
+Testing: Jest and React Testing Library
+Linting: ESLint
+Version Control: Git, GitHub (or any preferred version control system)
+Deployment: Vercel, Netlify, or similar platforms
+
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
