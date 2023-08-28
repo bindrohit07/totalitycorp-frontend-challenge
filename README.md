@@ -1,5 +1,4 @@
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+<a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -37,6 +36,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+     <li><a href="#features">Features</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -106,7 +106,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://fakestoreapi.com](https://fakestoreapi.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/bindrohit07/totality-frontend-challenge.git
+   git clone https://github.com/bindrohit07/totalitycorp-frontend-challenge.git
    ```
 3. Install NPM packages
    ```sh
@@ -114,7 +114,10 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 4. Enter your API in `config.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const API_KEY = 'fetch('https://fakestoreapi.com/products')
+            .then(res=>res.json())
+            .then(json=>console.log(json))
+';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -134,7 +137,17 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FEATURES -->
+## Features
 
+-> Interactive User Interface
+-> Responsive Design
+-> Smooth Navigation with React Router
+-> Efficient State Management for Enhanced Performance
+-> Optimized API Calls for Seamless Data Integration
+-> Testing for Robust Codebase
+-> Code Quality Maintenance through Linting
+-> Scalable and Customizable Design
 
 
 
