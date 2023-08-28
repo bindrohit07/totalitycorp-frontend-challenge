@@ -4,10 +4,10 @@
   <p align="center">
     <h3>An awesome E-commerce WebApp !</h3>
     <br />
-    <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://ecommerce-bindrohit07.netlify.app/">View Project Demo</a>
+    <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge"><strong>Explore the docs »</strong></a>
+    <br />
     ·
     <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge/issues">Report Bug</a>
     ·
@@ -113,7 +113,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. MY API in `config.js`
+4. My API in `config.js`
    ```js
    const API_KEY = 'fetch('https://fakestoreapi.com/products')
             .then(res=>res.json())
