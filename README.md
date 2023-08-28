@@ -8,7 +8,7 @@
     <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://ecommerce-bindrohit07.netlify.app/">View Project Demo</a>
     ·
     <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge/issues">Report Bug</a>
     ·
