@@ -71,17 +71,19 @@ An innovative ecommerce web application that seamlessly connects buyers and sell
 
 
 <h3>Tech Stack:</h3>
-Front-End Framework: React
-State Management: Redux (or any other chosen state management library)
-Styling: CSS Modules, Styled Components (optional)
-Routing: React Router
-API Communication: Axios or Fetch API
-Bundling: Webpack
-Transpilation: Babel
-Testing: Jest and React Testing Library
-Linting: ESLint
-Version Control: Git, GitHub (or any preferred version control system)
-Deployment: Vercel, Netlify, or similar platforms
+<ol>
+  <li>Front-End Framework: React</li>
+  <li>State Management:Redux</li>
+  <li>Styling: CSS Modules, Styled Components </li>
+  <li>Routing: React Router</li>
+  <li>API Communication: Axios or Fetch API</li>
+  <li>Bundling: Webpack</li>
+  <li>Transpilation: Babel</li>
+  <li>Testing: Jest and React Testing Library</li>
+  <li>Linting: ESLint</li>
+  <li>Version Control: Git, GitHub </li>
+  <li>Deployment: Netlify</li>
+</ol
 
 
 
