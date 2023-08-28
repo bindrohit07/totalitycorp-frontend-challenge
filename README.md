@@ -23,7 +23,7 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#built-with">Approch</a></li>
+        <li><a href="#approch">Approch</a></li>
       </ul>
     </li>
     <li>
