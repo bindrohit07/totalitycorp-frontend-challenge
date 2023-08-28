@@ -167,6 +167,7 @@ This project is licensed under the MIT License. See `LICENSE.txt` for more infor
 
 <!-- CONTACT -->
 ## Contact
+- <a href="https://bindrohit07.github.io/rohitkumarbind/"><img height="30px" src="https://img.shields.io/badge/Rohit Kumar Bind-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@rkumarbind7@gmail.com
 
