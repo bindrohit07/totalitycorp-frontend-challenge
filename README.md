@@ -45,7 +45,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 
 An ecommerce web application is an online platform that facilitates buying and selling products or services over the internet. It enables businesses to showcase their offerings to a global audience, allowing customers to browse, select, and purchase items conveniently from their devices. The web app typically includes features such as product listings, detailed descriptions, images, and prices. It also incorporates a secure shopping cart system that lets users add multiple items before proceeding to checkout.
