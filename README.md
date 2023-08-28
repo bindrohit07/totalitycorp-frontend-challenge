@@ -7,7 +7,7 @@
     <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ecommerce-bindrohit07.netlify.app/">View Demo</a>
+    <a href="https://ecommerce-bindrohit07.netlify.app/">View Project Demo</a>
     ·
     <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge/issues">Report Bug</a>
     ·
@@ -91,15 +91,6 @@ An innovative ecommerce web application that seamlessly connects buyers and sell
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
-
-
-
-
-
-
-
-
-
 
 
 
