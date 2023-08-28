@@ -11,10 +11,10 @@
   <p align="center">
     An awesome E-commerce WebApp !
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://ecommerce-bindrohit07.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
     ·
@@ -57,16 +57,14 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+An ecommerce web application is an online platform that facilitates buying and selling products or services over the internet. It enables businesses to showcase their offerings to a global audience, allowing customers to browse, select, and purchase items conveniently from their devices. The web app typically includes features such as product listings, detailed descriptions, images, and prices. It also incorporates a secure shopping cart system that lets users add multiple items before proceeding to checkout.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Ecommerce web apps offer various benefits, including 24/7 accessibility, personalized shopping experiences, and a wide range of payment options. They often include search and filter functionalities to help users quickly find what they're looking for. Additionally, these apps may integrate with inventory management systems to ensure accurate stock information.
 
-Use the `BLANK_README.md` to get started.
+An innovative ecommerce web application that seamlessly connects buyers and sellers. It offers an intuitive user interface and personalized recommendations. With a wide range of products, a streamlined checkout process, and responsive design, it provides a convenient and enjoyable online shopping experience.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
