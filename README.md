@@ -7,7 +7,7 @@
   <h3 align="center">Totalitycorp-Frontend-Challenge</h3>
 
   <p align="center">
-    An awesome E-commerce WebApp !
+    <h3>An awesome E-commerce WebApp !</h3>
     <br />
     <a href="https://github.com/bindrohit07/totalitycorp-frontend-challenge"><strong>Explore the docs »</strong></a>
     <br />
@@ -52,7 +52,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<h1>E-Commerce WebApp</h1>
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
