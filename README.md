@@ -1,4 +1,4 @@
-<div alingn="center">
+ <div alingn="center">
 <h1 align="center">Totalitycorp-Frontend-Challenge</h1>
 
   <p align="center">
@@ -70,8 +70,8 @@ An innovative ecommerce web application that seamlessly connects buyers and sell
 <br>
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
 
-### Approch
-<h3>Tech Stack:</h3>
+### Approach:
+<h4>Tech Stack:</h4>
 <ol>
   <li>Front-End Framework: React</li>
   <li>State Management: Redux</li>
@@ -130,7 +130,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Usages  
 
 1. Explore the various components and their interactions in the src directory.
 2. Customize styling in the CSS Modules or Styled Components files.
@@ -179,7 +179,7 @@ This project is licensed under the MIT License. See `LICENSE.txt` for more infor
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@rkumarbind7@gmail.com
 
-Project Link: []
+Project Link: [https://ecommerce-bindrohit07.netlify.app/]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
